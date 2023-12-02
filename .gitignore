@@ -1,1 +1,11 @@
 venv/*
+airflow-scheduler.err
+airflow-scheduler.log
+airflow-scheduler.pid
+airflow-scheduler.out
+
+airflow-webserver.err
+airflow-webserver.log
+airflow-webserver.pid
+airflow-webserver.out
+
