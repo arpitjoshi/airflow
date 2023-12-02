@@ -1,4 +1,7 @@
 venv/*
+airflow.db
+src/logs/
+
 airflow-scheduler.err
 airflow-scheduler.log
 airflow-scheduler.pid
@@ -8,4 +11,5 @@ airflow-webserver.err
 airflow-webserver.log
 airflow-webserver.pid
 airflow-webserver.out
+airflow-webserver-monitor.pid
 
